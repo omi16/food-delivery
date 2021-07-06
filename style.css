@@ -1,5 +1,5 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 .heading{
     text-align: left;
@@ -7,6 +7,45 @@ body{
     padding-left: 1%;
     padding-top: 1%;
     width: auto;
+    font-size: 500;
     height: 35px;
     background-image: linear-gradient( orange, orangered);
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: #333333;
+    line-height: 80%;
+    letter-spacing: 2px;
+}
+.orange-color{
+    color: orange;
+}
+.gray-text{
+    color: gray;
+    padding-bottom: 3%;
+}
+.button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, orangered);
+    border-radius: 30px;
+    padding: 3% 5%;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    
+}
+.text-part{
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-top: 5%;
+   
+}
+.half-width img{
+    width: 95%;
+    padding-left: 2%;
 }
