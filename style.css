@@ -37,7 +37,6 @@ h1{
 }
 .half-width{
     width: 40%;
-    
 }
 .text-part{
     margin-left: 5%;
@@ -48,4 +47,32 @@ h1{
 .half-width img{
     width: 95%;
     padding-left: 2%;
+}
+.half-width-two{
+    width: 40%;
+}
+.about-us-banner{
+    margin-top: 5%;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.half-width-two img{
+    width: 50%;
+    height: 90%;
+    margin-left: 5%;
+    padding-top: 10%;
+    padding-left: 35%;
+}
+.text-part-two{
+    color: #333333;
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-top: 10%;
+}
+#space-bottom{
+    padding-bottom: 10%;
+}
+h2{
+    font-size: 30px;
+    color: #333333;
 }
